@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Background -->
+  <rect width="64" height="64" rx="12" fill="#0D1B2A"/>
+  <!-- House body -->
+  <polygon points="32,10 56,28 56,56 8,56 8,28" fill="#C0392B"/>
+  <!-- Roof ridge highlight -->
+  <polygon points="32,10 56,28 52,28 32,14 12,28 8,28" fill="#E74C3C"/>
+  <!-- Door -->
+  <rect x="24" y="38" width="16" height="18" rx="2" fill="#0D1B2A"/>
+  <!-- Door knob -->
+  <circle cx="37" cy="48" r="1.5" fill="#D4A843"/>
+  <!-- Window left -->
+  <rect x="12" y="34" width="9" height="8" rx="1.5" fill="#D4A843" opacity="0.85"/>
+  <!-- Window right -->
+  <rect x="43" y="34" width="9" height="8" rx="1.5" fill="#D4A843" opacity="0.85"/>
+  <!-- Star/Texas detail on roof peak -->
+  <polygon points="32,8 33.5,12.5 38,12.5 34.5,15 36,19.5 32,17 28,19.5 29.5,15 26,12.5 30.5,12.5" fill="#D4A843"/>
+</svg>
